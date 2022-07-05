@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.stack {
+  border: solid 1px;
+  height: 250px;
+  width: 150px;
+  border-top: 0px;
+  margin-left: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+button {
+  margin-bottom: 10px;
+}
+
+.stack-item {
+  background-color: pink;
+  margin: 0px;
+  border: solid 1px;
+}
